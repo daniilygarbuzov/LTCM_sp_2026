@@ -1,0 +1,18 @@
+Metric,Value
+Start date,2002-01-01
+End date,2026-04-20
+Initial AUM,100000000
+Ending NAV,283449790.2192844
+Total return,1.8344979021928443
+Annual rate of return,0.04381040971314376
+Annualized volatility,0.07083689994005894
+"Sharpe ratio, rf=0",0.6184687606348589
+Maximum drawdown,-0.15933386037892394
+Maximum drawdown start,2008-07-14
+Maximum drawdown end,2009-01-14
+Total trade count,230
+Average holding period per trade,60.13913043478261
+Average gross leverage,0.5454258675078865
+Maximum gross leverage,1.0
+Average active signals,2.181703470031546
+Maximum active signals,4.0

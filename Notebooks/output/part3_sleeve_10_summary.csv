@@ -1,0 +1,13 @@
+Metric,100% 60/40,90% 60/40 + 10% trend,100% trend
+Start date,2002-01-02,2002-01-02,2002-01-02
+End date,2026-04-20,2026-04-20,2026-04-20
+Initial AUM,"$100,000,000","$100,000,000","$100,000,000"
+Ending NAV,"$602,519,538","$567,914,149","$283,449,790"
+Total return,502.04%,467.51%,183.45%
+Annual rate of return,7.67%,7.41%,4.38%
+Annualized volatility,10.87%,9.92%,7.08%
+"Sharpe ratio, rf=0",0.71,0.75,0.62
+Maximum drawdown,-32.68%,-29.73%,-15.93%
+Maximum drawdown start,2007-10-09,2007-10-31,2008-07-14
+Maximum drawdown end,2009-03-09,2009-03-09,2009-01-14
+Weights (w_T / w_B),0% / 100%,10% / 90%,100% / 0%

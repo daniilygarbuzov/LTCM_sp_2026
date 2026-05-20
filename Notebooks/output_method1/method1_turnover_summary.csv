@@ -1,0 +1,12 @@
+Metric,Value
+"Average daily asset turnover, excl. initial build",0.02063626692077126
+"Median daily asset turnover, excl. initial build",0.0022059970695802724
+"Annualized asset turnover, avg daily x 252",5.2003392640343575
+"Total traded notional, excl. initial build",24540400541.321068
+"Average daily traded notional, excl. initial build",3871336.258293275
+"Days with nonzero rebalancing, excl. initial build",5388.0
+"Share of days with nonzero rebalancing, excl. initial build",0.8499763369616659
+Signal-change days,441.0
+Signal-change days per year,18.149323943661972
+Average turnover on signal-change days,0.2615731120358021
+Average turnover on non-signal-change days,0.002621151848589406

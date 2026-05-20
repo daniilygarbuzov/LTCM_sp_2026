@@ -1,0 +1,18 @@
+Metric,Method 1 (trend),60/40 benchmark
+Start date,2002-01-01,2002-01-01
+End date,2026-04-20,2026-04-20
+Initial AUM,100000000,100000000
+Ending NAV,283449790.2192844,602519538.4009718
+Total return,1.8344979021928443,5.025195384009717
+Annual rate of return,0.04381040971314376,0.07671225737098064
+Annualized volatility,0.07083689994005843,0.10868137947714859
+"Sharpe ratio, rf=0",0.6184687606348633,0.7058454515394719
+Maximum drawdown,-0.15933386037892394,-0.3268328292060485
+Maximum drawdown start,2008-07-14,2007-10-09
+Maximum drawdown end,2009-01-14,2009-03-09
+Total trade count,230,
+Average holding period per trade,60.13913043478261,
+Average gross leverage,0.5454258675078865,1.0
+Maximum gross leverage,1.0,1.0
+Average active signals,2.181703470031546,2.0
+Maximum active signals,4.0,2.0
